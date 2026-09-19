@@ -1,0 +1,12 @@
+[
+  { "code": "USD", "name": "US Dollar", "country": "US" },
+  { "code": "EUR", "name": "Euro", "country": "EU" },
+  { "code": "GBP", "name": "Pound Sterling", "country": "GB" },
+  { "code": "PHP", "name": "Philippine Peso", "country": "PH" },
+  { "code": "MXN", "name": "Mexican Peso", "country": "MX" },
+  { "code": "INR", "name": "Indian Rupee", "country": "IN" },
+  { "code": "JPY", "name": "Japanese Yen", "country": "JP" },
+  { "code": "CAD", "name": "Canadian Dollar", "country": "CA" },
+  { "code": "BRL", "name": "Brazilian Real", "country": "BR" },
+  { "code": "SGD", "name": "Singapore Dollar", "country": "SG" }
+]

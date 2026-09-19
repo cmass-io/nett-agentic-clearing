@@ -1,0 +1,9 @@
+source_country,destination_country,source_currency,destination_currency,amount,timestamp,source_institution,destination_institution,priority,max_settlement_time_minutes
+US,PH,USD,PHP,1000000,2026-01-15T12:00:00Z,AsterPay,Orbit Commerce,priority,30
+PH,US,PHP,USD,800000,2026-01-15T12:01:00Z,Orbit Commerce,AsterPay,standard,120
+GB,IN,GBP,INR,450000,2026-01-15T12:02:00Z,BlueRiver,Vertex Bank,standard,120
+IN,GB,INR,GBP,300000,2026-01-15T12:03:00Z,Vertex Bank,BlueRiver,priority,30
+CA,MX,CAD,MXN,275000,2026-01-15T12:04:00Z,Cedar Financial,Atlas Remit,standard,240
+MX,CA,MXN,CAD,125000,2026-01-15T12:05:00Z,Atlas Remit,Cedar Financial,standard,240
+SG,JP,SGD,JPY,520000,2026-01-15T12:06:00Z,Relay Markets,Kite Money,priority,60
+JP,SG,JPY,SGD,440000,2026-01-15T12:07:00Z,Kite Money,Relay Markets,standard,120

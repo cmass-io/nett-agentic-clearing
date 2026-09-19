@@ -1,0 +1,6 @@
+[
+  { "id": "php-liquidity", "name": "PHP Liquidity Crisis", "default": true },
+  { "id": "usd-php-rail", "name": "USD-PHP Rail Failure" },
+  { "id": "fx-spike", "name": "FX Cost Spike" },
+  { "id": "institution-capacity", "name": "Institution Capacity Failure" }
+]

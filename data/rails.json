@@ -1,0 +1,4 @@
+[
+  { "id": "CLEAR", "description": "Lower-cost standard simulated clearing capacity", "costBps": 1.2, "liquidityMultiplier": 1 },
+  { "id": "FLEX", "description": "Higher-cost simulated liquidity-saving capacity", "costBps": 5.4, "liquidityMultiplier": 0.02 }
+]

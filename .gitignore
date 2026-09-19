@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+coverage/
+*.log
+.DS_Store
+VIBE_STATUS.md
