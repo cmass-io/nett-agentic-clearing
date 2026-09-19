@@ -6,14 +6,14 @@ NETT is a deterministic multi-agent clearing simulation for high-volume cross-bo
 
 ![NETT Guided Demo completed with recovery validated](docs/screenshots/guided-demo-complete.png)
 
-## Two-minute judge demo
+## 3–4 minute judge demo
 
 1. Open the **Network** dashboard and click **Guided 2-Min Demo**.
 2. Watch Judge Mode run 100,000 simulated obligations, expose the calculated compression, trigger the PHP liquidity crisis, and validate autonomous recovery.
 3. Point to the measured settlement reduction, valid plan, active-agent status, recovery timing, and expandable **WHY?** audit decisions.
 4. Click **Open ROI Analysis** to connect the clearing result to editable modeled economics and customer net savings.
 
-The walkthrough is deterministic and requires no API key, account, or external service. See [demo-script.md](docs/demo-script.md) for the exact presenter narration.
+The walkthrough is deterministic and requires no API key, account, or external service. See [demo-script.md](docs/demo-script.md) for the official-flow recording structure, exact presenter narration, and Loom title/description copy.
 
 ## Run locally
 
@@ -115,7 +115,7 @@ The `/analysis` page compares **Without NETT** and **With NETT** using editable 
 
 ![NETT modeled daily cost comparison and customer net savings](docs/screenshots/roi-analysis.png)
 
-See [economics.md](docs/economics.md) for formulas and guardrails, and [demo-script.md](docs/demo-script.md) for the 2–3 minute walkthrough.
+See [economics.md](docs/economics.md) for formulas and guardrails, and [demo-script.md](docs/demo-script.md) for the 3–4 minute walkthrough.
 
 ## Limitations
 
