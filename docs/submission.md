@@ -22,7 +22,7 @@ The impact is practical: a payments organization can upload representative histo
 | --- | --- |
 | Project title | NETT — Agentic Clearing for Global Payments |
 | Demo video | Add your Loom URL after recording |
-| Public repository | Add the GitHub URL after publishing |
+| Public repository | https://github.com/cmass-io/nett-agentic-clearing |
 | Deployed URL or app capture | Loom screen capture demonstrates the working app |
 | Team roster | Add your name, role, and preferred contact information |
 | Short write-up | Use the text above |
@@ -31,7 +31,8 @@ The impact is practical: a payments organization can upload representative histo
 
 - [ ] Loom recording is 2–5 minutes and shows the Guided Demo core loop.
 - [ ] Loom URL is added above.
-- [ ] GitHub repository is public and its README renders correctly.
-- [ ] GitHub URL is added above.
+- [x] GitHub repository is public with a readable README.
+- [x] GitHub URL is added above.
+- [x] A fresh clone installed successfully and passed tests, lint, and production build verification.
 - [ ] Team roster is complete.
 - [ ] Submission uses the short write-up above.
