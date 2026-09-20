@@ -6,6 +6,12 @@ NETT is a deterministic multi-agent clearing simulation for high-volume cross-bo
 
 ![NETT Guided Demo completed with recovery validated](docs/screenshots/guided-demo-complete.png)
 
+## Live demo
+
+[Open the public NETT demo](https://nett-agentic-clearing.vercel.app)
+
+No account or API key is required to explore the public demo.
+
 ## 3–4 minute judge demo
 
 1. Open the **Network** dashboard and click **Guided 2-Min Demo**.
