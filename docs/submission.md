@@ -23,7 +23,7 @@ The impact is practical: a payments organization can upload representative histo
 | Project title | NETT — Agentic Clearing for Global Payments |
 | Demo video | Add your Loom URL after recording |
 | Public repository | https://github.com/cmass-io/nett-agentic-clearing |
-| Deployed URL or app capture | Loom screen capture demonstrates the working app |
+| Deployed URL or app capture | https://nett-agentic-clearing.vercel.app |
 | Team roster | Add your name, role, and preferred contact information |
 | Short write-up | Use the text above |
 
@@ -34,5 +34,7 @@ The impact is practical: a payments organization can upload representative histo
 - [x] GitHub repository is public with a readable README.
 - [x] GitHub URL is added above.
 - [x] A fresh clone installed successfully and passed tests, lint, and production build verification.
+- [x] Vercel production deployment is live at https://nett-agentic-clearing.vercel.app.
+- [ ] Confirm Vercel Deployment Protection is disabled or bypassed for public judge access.
 - [ ] Team roster is complete.
 - [ ] Submission uses the short write-up above.
