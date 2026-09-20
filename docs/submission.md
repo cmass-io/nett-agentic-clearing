@@ -35,6 +35,6 @@ The impact is practical: a payments organization can upload representative histo
 - [x] GitHub URL is added above.
 - [x] A fresh clone installed successfully and passed tests, lint, and production build verification.
 - [x] Vercel production deployment is live at https://nett-agentic-clearing.vercel.app.
-- [ ] Confirm Vercel Deployment Protection is disabled or bypassed for public judge access.
+- [x] The stable production alias returned HTTP 200 without authentication and is ready for public judge access.
 - [ ] Team roster is complete.
 - [ ] Submission uses the short write-up above.
